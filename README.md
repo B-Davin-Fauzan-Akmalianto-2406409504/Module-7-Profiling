@@ -1,4 +1,8 @@
 ## Module 7 Notes
+
+### Disclaimer
+SEED SIZE saya ganti dari 20k menjadi 10k.
+
 ### Test Result 1 JMeter
 ![test_result_1_jmeter.png](images/test_result_1_jmeter.png)
 ### Test Result 2 JMeter
